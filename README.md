@@ -45,10 +45,10 @@ This repository does not:
 The active Charter recognizes five constitutional layers, in strict top-down dependency order:
 
 1. Charter (Sovereignty Layer)
-2. Canon (Normative Rule Layer)
+2. Canon (Normative Rules)
 3. Kernel (Deterministic Execution Engine)
-4. Runtime (Commercial & Policy Enforcement Layer)
-5. Registry (Skill & Schema Authority Layer)
+4. Runtime (Commercial & Policy Enforcement)
+5. Registry (Skill & Schema Authority)
 
 Lower layers must not override higher layers.
 
