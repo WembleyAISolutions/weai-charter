@@ -2,7 +2,7 @@
 
 Status: amendment candidate  
 Maturity: outline only  
-Review state: v0.5 admission candidate after red-team review  
+Review state: v0.5 review candidate before repository-recorded red-team review
 Target: amendment protocol v2.0  
 Repository: weai-charter  
 Path: governance/amendments/PROTOCOL-V2.0-AMENDMENT-PROPOSAL.md  
