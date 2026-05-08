@@ -4,7 +4,6 @@ Status: repository-recorded review artifact
 Reviewed proposal: `governance/amendments/PROTOCOL-V2.0-AMENDMENT-PROPOSAL.md`  
 Reviewed at commit: `2c14aeb`  
 Review date: `2026-05-08`  
-Reviewer: founder  
 Repository: `weai-charter`  
 Path: `governance/amendments/PROTOCOL-V2.0-AMENDMENT-PROPOSAL-RED-TEAM-REVIEW.md`  
 Authority effect: none  
